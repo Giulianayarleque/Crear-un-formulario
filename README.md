@@ -11,10 +11,8 @@ Este proyecto consiste en una página web estática que permite a los clientes r
 > Puedes abrir el archivo `index.html` directamente en tu navegador.
 
 ## 📁 Estructura del proyecto
-Crear-un-formulario/
-├── index.html       # Página principal con el formulario
-├── styles.css       # Estilos del formulario
-└── logo.png         # Logo del restaurante
+<img width="768" height="378" alt="image" src="https://github.com/user-attachments/assets/f6d0b05f-a3aa-422d-84ba-28cd17ff924d" />
+
 
 ## 🧾 Campos del formulario
 
@@ -28,6 +26,11 @@ Crear-un-formulario/
 
 - HTML5
 - CSS3
+
+## Ejemplo como quedaría
+
+<img width="699" height="721" alt="image" src="https://github.com/user-attachments/assets/8ad06968-a9d0-4527-b33e-8df0e967232a" />
+
 
 ## 🚀 Cómo usar
 
