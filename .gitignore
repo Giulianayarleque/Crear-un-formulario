@@ -1,0 +1,7 @@
+# Ignore parent directories and other projects
+*
+!index.html
+!styles.css
+!logo.png
+!.git/
+!.gitignore
